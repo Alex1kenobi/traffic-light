@@ -1,5 +1,8 @@
 import React, {useState} from "react"; 
-import "/workspace/react-hello/src/styles/trafficlight.css"
+
+
+import "/workspace/traffic-light/src/styles/index.css"
+import "/workspace/traffic-light/src/styles/trafficlight.css"
 
 const TrafficLight = ()=>{
 
